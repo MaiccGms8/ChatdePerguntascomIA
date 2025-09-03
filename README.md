@@ -31,7 +31,6 @@ JavaScript (ES6+) – integração com a API e manipulação da DOM
 Fetch API + async/await – chamadas assíncronas para a OpenAI
 
 📂 Estrutura de Arquivos
-projeto-ia/
 
 ├── index.html   # Interface principal
 
